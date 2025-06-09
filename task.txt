@@ -1,0 +1,15 @@
+A blockchain is a distributed digital ledger that securely records data across a network of computers. Each record, or “block,” contains a set of transactions and links to the previous block through cryptographic hashes, forming a secure, chronological chain. This decentralized structure ensures that no single entity controls the data, making it transparent and tamper-resistant. Every participant in the network maintains a copy of the blockchain, and consensus algorithms are used to agree on updates, preventing fraud or duplication. Because data once recorded cannot be altered without altering all subsequent blocks, blockchain provides integrity, trust, and security in digital interactions.
+
+Real-life use cases:-------
+
+Supply Chain Management: Blockchain tracks products from origin to destination, ensuring transparency and reducing fraud.
+
+Digital Identity: Individuals can manage their own digital identities securely, reducing identity theft and simplifying verification processes.
+
+
+Proof of Work (PoW):--------------
+PoW is a consensus algorithm where miners compete to solve complex mathematical puzzles to add a block to the blockchain. The first one to find a valid solution broadcasts it, and if accepted by the network, they get rewarded.
+Proof of Stake (PoS):-------------
+In PoS, validators are chosen to create new blocks based on the amount of cryptocurrency they "stake" or lock up as collateral. The higher the stake, the better the chances of being selected. PoS is energy-efficient because it doesn’t require solving resource-intensive puzzles.
+Delegated Proof of Stake (DPoS):--
+DPoS involves stakeholders voting to elect a small number of trusted delegates or validators who are responsible for producing blocks and maintaining the network. The votes are weighted by the number of tokens each participant holds. 
